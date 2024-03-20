@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 """
-This is my first demo, I will release a more interesting demo soon.
+This is my first demo, I will release a more interesting demo soon. \n
 这是我第一个示例，后续我会更新更有趣的示例。
 """
 num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
